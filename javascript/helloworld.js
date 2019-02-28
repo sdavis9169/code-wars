@@ -4,4 +4,3 @@ simpleFunc = () => {
     console.log('hello world!');
 };
 
-simpleFunc();
