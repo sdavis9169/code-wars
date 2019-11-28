@@ -12,6 +12,7 @@ function move(position, roll) {
   }
 }
 
+console.log(move(3, 6))
 //   describe('move function', () => {
 //     it('basic tests', () => {
 //       Test.assertEquals(move(0, 4), 8);
