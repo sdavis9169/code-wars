@@ -7,3 +7,4 @@ const friend = friends => {
 };
 
 friend(["Ryan", "Kieran", "Jason", "Yous"]);
+
